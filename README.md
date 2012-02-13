@@ -17,4 +17,3 @@ Csapattagok
  - Fodor Bertalan
  - Kádár András
  - Thaler Benedek
-
